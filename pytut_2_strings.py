@@ -1,3 +1,4 @@
+# @author Delphik
 # https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2
 message = 'Hello World'
 greeting = 'Hello'
