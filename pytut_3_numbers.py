@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3
+# 
+
 num = 1
 num1 = 3.14
 num2 = 3
